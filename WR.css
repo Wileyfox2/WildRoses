@@ -1,0 +1,28 @@
+.body{
+    margin: 0;
+}
+.IMG{
+   background-size: contain;
+}
+.header{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(fon.jpg);
+    height:100vh;
+}
+.But{
+    display: flex;
+}
+.But1{
+    padding: 25px 120px;
+    background-color: #000;
+    font-family: 'Marck Script', cursive;
+    border-bottom: 2px solid rgb(131, 131, 131);
+    border-left: 2px solid rgb(131, 131, 131);
+    border-right: 2px solid rgb(131, 131, 131);
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    margin: auto;
+    
+}
